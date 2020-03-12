@@ -145,7 +145,7 @@ ply==3.11
 prometheus-client==0.6.0
 prompt-toolkit==1.0.15
 protobuf==3.7.1
-psutil==5.6.1
+psutil==5.6.6
 ptyprocess==0.6.0
 py==1.8.0
 pycairo==1.18.0
